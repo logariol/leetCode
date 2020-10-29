@@ -1,0 +1,5 @@
+Session 29.10
+Solved
+Solved suboptimally
+849. Maximize Distance to Closest Person
+Not solved
