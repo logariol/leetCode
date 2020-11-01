@@ -3,3 +3,9 @@ Solved
 Solved suboptimally
 849. Maximize Distance to Closest Person
 Not solved
+
+Session 1.11
+Solved
+1290. Convert Binary Number in a Linked List to Integer
+Solved suboptimally
+Not solved
