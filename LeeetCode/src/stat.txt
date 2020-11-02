@@ -14,6 +14,7 @@ Not solved
 Session 2.11
 Solved
 295. Find median from data stream
+460. LFU Cache
 Solved suboptimally
 Not solved
 528. Random Pick with Weight
