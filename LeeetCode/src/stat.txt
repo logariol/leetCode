@@ -16,6 +16,7 @@ Solved
 295. Find median from data stream
 460. LFU Cache
 Solved suboptimally
+41. First Missing Positive
 Not solved
 528. Random Pick with Weight
 
