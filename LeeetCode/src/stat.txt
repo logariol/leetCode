@@ -9,3 +9,12 @@ Solved
 1290. Convert Binary Number in a Linked List to Integer
 Solved suboptimally
 Not solved
+
+
+Session 2.11
+Solved
+295. Find median from data stream
+Solved suboptimally
+Not solved
+528. Random Pick with Weight
+
