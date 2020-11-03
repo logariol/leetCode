@@ -20,3 +20,10 @@ Solved suboptimally
 Not solved
 528. Random Pick with Weight
 
+
+
+Session 3.11
+Solved
+Solved suboptimally
+Not solved
+Reverse k nodes in a group
