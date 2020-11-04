@@ -28,3 +28,9 @@ Design in memory file system
 Solved suboptimally
 Not solved
 Reverse k nodes in a group
+
+Session 4.11
+Solved
+Solved suboptimally
+329. Longest Increasing Path in a Matrix
+Not solved
