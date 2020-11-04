@@ -31,6 +31,8 @@ Reverse k nodes in a group
 
 Session 4.11
 Solved
+1428. Leftmost Column with at Least a One
 Solved suboptimally
 329. Longest Increasing Path in a Matrix
+269. Alien Dictionary
 Not solved

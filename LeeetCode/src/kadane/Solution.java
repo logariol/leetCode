@@ -1,5 +1,7 @@
 package kadane;
 
+import java.util.ArrayList;
+
 public class Solution {
     public int kadanesAlgorithm(int[] array) {
         int max = array[0];
@@ -8,6 +10,8 @@ public class Solution {
             current = Math.max(array[i], current + array[i]);
             max = Math.max(max, current);
         }
+
+
         return max;
     }
 
