@@ -36,3 +36,11 @@ Solved suboptimally
 329. Longest Increasing Path in a Matrix
 269. Alien Dictionary
 Not solved
+
+
+Session 4.11
+Solved
+Jump game 2
+Solved suboptimally
+Not solved
+843. Guess the Word. Come back 5.11
