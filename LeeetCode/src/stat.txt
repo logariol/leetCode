@@ -38,9 +38,16 @@ Solved suboptimally
 Not solved
 
 
-Session 4.11
+Session 5.11
 Solved
+1152. Analyze User Website Visit Pattern
 Jump game 2
 Solved suboptimally
 Not solved
-843. Guess the Word. Come back 5.11
+843. Guess the Word. Come back 8.11
+
+Session 6.11
+Solved
+Solved suboptimally
+Not solved
+301. Remove Invalid Parentheses
