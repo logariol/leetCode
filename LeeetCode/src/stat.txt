@@ -51,3 +51,12 @@ Solved
 Solved suboptimally
 Not solved
 301. Remove Invalid Parentheses
+
+
+Session 11.11
+Solved
+Solved suboptimally
+140. Word Break II. Come back 12.11
+Not solved
+
+
