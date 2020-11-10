@@ -58,5 +58,5 @@ Solved
 Solved suboptimally
 140. Word Break II. Come back 12.11
 Not solved
-
+1335. Minimum Difficulty of a Job Schedule. DP problem
 
