@@ -66,3 +66,10 @@ Solved suboptimally
 986. Interval List Intersections
 Not solved
 158. Read N Characters Given Read4 II - Call multiple times
+
+Session 12.11
+Solved
+Solved suboptimally
+986. Interval List Intersections
+Not solved
+722. Remove Comments. Come back 13.11
